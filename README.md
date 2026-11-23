@@ -1,14 +1,4 @@
-## Hi there 👋
-
-<!--
-**fet012/fet012** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...# Hey, I'm Fet 👋
+# Hey, I'm Fet 👋
 
 **Backend developer from Lagos, Nigeria.** I build the parts of products you never see: APIs, auth, payments and the logic that keeps money moving correctly, with a growing focus on Web3 and on-chain systems.
 
@@ -75,9 +65,3 @@ If you're hiring, need an API built, or just want to talk backend, I'd like to h
 ---
 
 <sub>fet012</sub>
-
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
